@@ -1,0 +1,17 @@
+
+# Introduction
+
+인증 서버 역할을 수행하는 Flask 기반 웹 프로젝트
+
+RobloxWindowMonitor 프로그램에서 비밀번호 인증 서버 역할을 수행하도록 하기 위해 생성된 프로젝트
+
+프로그램에서 vercel에서 호스팅 되고 있는 서버로 비밀번호를 검증 요청함.
+
+비밀번호가 일치하면 프로그램이 실행되도록 하고, 비밀번호가 일치하지 않으면 프로그램이 동작하지 않음
+
+서버에서는 비밀번호가 맞는지 틀리는지만을 Response 로 주고 있기 때문에 비밀번호 노출의 우려가 없음
+
+비밀번호 변경이 필요한 경우 app.py 소스 내의 비밀번호를 변경하면 잠시후 vercel 인증 서버에 자동으로 갱신되므로 간편하게 비밀번호 변경 처리가 가능
+
+<img width="1067" height="709" alt="Image" src="https://private-user-images.githubusercontent.com/82494320/466010257-5f8644c7-1ea3-45b3-9416-7ccd76040436.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTU2MjgsIm5iZiI6MTc1MjQ5NTMyOCwicGF0aCI6Ii84MjQ5NDMyMC80NjYwMTAyNTctNWY4NjQ0YzctMWVhMy00NWIzLTk0MTYtN2NjZDc2MDQwNDM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjZTYxNjczMzllNjUzNzY1MmU4ZDc0ZjhkOWEwNGM1NjY1ZDI2OWQ4ODQ0MWY5Njg5ZTMyMThmNWY3MDIxMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aea7Z6Hr4KAQKOXNsVSnydeAJb1JJ2Hl7Nb7VkoLlZ4" style="max-width: 100%; height: auto; max-height: 709px;">
+
