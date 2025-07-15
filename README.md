@@ -18,12 +18,12 @@ RobloxWindowMonitor 프로그램에서 비밀번호 인증 서버 역할을 수�
 
 1. Vercel 에서 Add New Project 후 Github 레파지토리 선택
 
-<img width="1067" height="709" alt="Image" src="https://private-user-images.githubusercontent.com/82494320/466010257-5f8644c7-1ea3-45b3-9416-7ccd76040436.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTYwODIsIm5iZiI6MTc1MjQ5NTc4MiwicGF0aCI6Ii84MjQ5NDMyMC80NjYwMTAyNTctNWY4NjQ0YzctMWVhMy00NWIzLTk0MTYtN2NjZDc2MDQwNDM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMjMwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2ZjQ4YmFlOWNiMGNiZTMyMmJlMWNiODcyNjI0MWVlMmZiNTMyODkwOWM3NzlkODgyZTJkZTYyMDZhM2U0OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ue92G7859vK5gt5kYSLsgaZldUb_STITwNB4BhyEWJ0" style="max-width: 100%; height: auto; max-height: 709px;">
+![step 1](https://github.com/user-attachments/assets/5f8644c7-1ea3-45b3-9416-7ccd76040436)
 
 2. 하단의 Deploy 버튼 클릭
 
-<img width="693" height="715" alt="Image" src="https://private-user-images.githubusercontent.com/82494320/466010740-658a56f1-0f0f-429b-b082-f4ce3514d042.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTYwMTgsIm5iZiI6MTc1MjQ5NTcxOCwicGF0aCI6Ii84MjQ5NDMyMC80NjYwMTA3NDAtNjU4YTU2ZjEtMGYwZi00MjliLWIwODItZjRjZTM1MTRkMDQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMjE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2ZDk4ZmVjMWJjNDBlMTQyMjg2ODk0MGM0MDM1NzI0MWFmOGFkYTJiMDZkZjYzMmE3ZjhkZDM1Mjc1YjdjMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.h-IfxCU9SoNeJHTCobHJoBM6WNQTM3j2Pykqdn9eFjc" style="max-width: 100%; height: auto; max-height: 715px;">
+![step 2](https://github.com/user-attachments/assets/658a56f1-0f0f-429b-b082-f4ce3514d042)
 
 3. 생성된 결과 확인
 
-<img width="699" height="847" alt="Image" src="https://private-user-images.githubusercontent.com/82494320/466010952-772236ba-c938-48b5-ac30-156640d5dcfa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTYwNDcsIm5iZiI6MTc1MjQ5NTc0NywicGF0aCI6Ii84MjQ5NDMyMC80NjYwMTA5NTItNzcyMjM2YmEtYzkzOC00OGI1LWFjMzAtMTU2NjQwZDVkY2ZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMjIyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMDhhZWVhNjVlNDJiZDg3OTE4NjM4MWYxZjViOTE2MzY1ZjRkZTk0N2Y5NmIxZjhlZDMxZjVhMThkODFiMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3Mgcls4zd1GirGiH0Msga8JgfBGXHpyij-xljbMtlXk" style="max-width: 100%; height: auto; max-height: 847px;">
+![step 3](https://github.com/user-attachments/assets/772236ba-c938-48b5-ac30-156640d5dcfa)
